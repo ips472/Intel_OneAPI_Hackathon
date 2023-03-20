@@ -9,3 +9,23 @@
  - oneAPI is an open, cross-architecture programming model that frees developers to use a single code base across multiple architectures. The result is accelerated  compute  without vendor lock-in.
  - The objective of this hackathon is to build solutions with oneAPI for compelling problems identified. Developers can choose to work in the themes of the ML, Computer Vision, and Open Innovation theme. The developers are expected to build the solutions using the Intel® oneAPI AI Analytics Toolkits.
  
+# 01 Problem Statement
+ - Predicting Disease Outcomes: Use machine learning algorithms to analyze patient data and 
+predict the likelihood of developing certain diseases or conditions. This could include using 
+Scikit-Learn to build models that can identify risk factors and make predictions about future 
+health outcomes.
+
+# 02 Setup
+As we have used intelOneApi devcloud, you need to have a free account in intel OneApi. Here is the [link](https://devcloud.intel.com/oneapi/get_started/baseToolkitSamples/).
+
+![Screenshot 2023-03-20 213359](https://user-images.githubusercontent.com/91345124/226399332-5100572c-3c05-40bc-921b-902694bd0efa.png)
+
+Sign in/up to use the powerful intel devcloud
+
+![Screenshot 2023-03-20 220315](https://user-images.githubusercontent.com/91345124/226407048-bf9b6158-dc57-4f3e-a3b2-3bad148142a2.png)
+
+![jupyter-button](https://user-images.githubusercontent.com/91345124/226405905-68a89675-1c7b-46cd-9a5d-56508f77cb94.png)
+
+![Screenshot 2023-03-20 203630](https://user-images.githubusercontent.com/91345124/226408007-9edbbf0c-3760-4a1e-8605-f09139e03343.png)
+
+![Screenshot 2023-03-20 203538](https://user-images.githubusercontent.com/91345124/226408061-2166b6af-e5cb-49de-99ea-987f70557fea.png)
