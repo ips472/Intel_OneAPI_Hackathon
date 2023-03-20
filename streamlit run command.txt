@@ -1,0 +1,1 @@
+streamlit run "C:\Users\ipsit\OneDrive\Desktop\hackathon\multiple_disease_pred.py"
