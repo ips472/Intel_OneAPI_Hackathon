@@ -5,15 +5,18 @@
   - Parkinson's disease
   
 ![Screenshot 2023-03-20 212152](https://user-images.githubusercontent.com/91345124/226395277-500f715f-292d-4ec0-88dd-54b955c994ed.png)
+
 #
  - oneAPI is an open, cross-architecture programming model that frees developers to use a single code base across multiple architectures. The result is accelerated  compute  without vendor lock-in.
  - The objective of this hackathon is to build solutions with oneAPI for compelling problems identified. Developers can choose to work in the themes of the ML, Computer Vision, and Open Innovation theme. The developers are expected to build the solutions using the Intel® oneAPI AI Analytics Toolkits.
+ 
  
 # 01 Problem Statement
  - Predicting Disease Outcomes: Use machine learning algorithms to analyze patient data and 
 predict the likelihood of developing certain diseases or conditions. This could include using 
 Scikit-Learn to build models that can identify risk factors and make predictions about future 
 health outcomes.
+
 
 # 02 Setup
 As we have used intelOneApi devcloud, you need to have a free account in intel OneApi. Here is the [link](https://devcloud.intel.com/oneapi/get_started/baseToolkitSamples/).
@@ -31,10 +34,14 @@ Sign in/up to use the powerful intel devcloud
 ![Screenshot 2023-03-20 203538](https://user-images.githubusercontent.com/91345124/226408061-2166b6af-e5cb-49de-99ea-987f70557fea.png)
 
 
+
 # 03 Explore Intel oneAPI Toolkits in the DevCloud
+
  Intel® oneAPI AI Analytics Toolkit from [here](https://devcloud.intel.com/oneapi/get_started/) [oneAPI sample codes](https://devcloud.intel.com/oneapi/get_started/baseToolkitSamples/)  [oneAPI SRC codes](https://github.com/oneapi-src/oneAPI-samples)  
  
+ 
 # 04 Implementation
+
   Here we are using Logistic Regression machine learning algorithm for diabetes prediction and SVM machine learning algorithm for Parkinson's disease, Heart disease prediction. The working of the SVM is as follows:
   
 ![Screenshot 2023-03-20 223441](https://user-images.githubusercontent.com/91345124/226417908-d7b09410-fa41-4ddc-a0e5-f132de0c56b9.png)
@@ -48,7 +55,10 @@ Sign in/up to use the powerful intel devcloud
 
 
 
+
+
 # 05 Streamlit App
+
 
 
 https://user-images.githubusercontent.com/91345124/226422465-137edaaf-78ad-405b-8daa-c4bad38ab427.mp4
